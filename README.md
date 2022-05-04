@@ -38,7 +38,7 @@ There are POIs that are highly attractive but located far from the roads due to 
 
 <b> Proposed Solution: </b> 
 
-Identifying the entrance locations of these POIs helps to reduce this issue. The proposed method is two fold as: (1) Prerequisite: Identifying the POIs which requires entrance locations, (2) Identfiying the entrance locations. [Click Here](#introduction-to-computer-science)
+Identifying the entrance locations of these POIs helps to reduce this issue. The proposed method is two fold as: (1) Prerequisite: Identifying the POIs which requires entrance locations, (2) Identfiying the entrance locations. [Click Here](https://github.com/dineth33/POI-Enhancement/blob/main/Entrance_location_identification/issue%20solving.ipynb)
 
 
 
@@ -49,7 +49,7 @@ Identifying the entrance locations of these POIs helps to reduce this issue. The
 
 ### Asssessing the impact of Enhanced POIs for trip purpose inference 
 
-The trip purpose inference model developed by  (Gong et al.())  and developed by (Dhananjaya et al. ())  based on the Bayesian modeling is used in this study to access the impact of the suggested improvements. [Click Here](#introduction-to-computer-science)
+The trip purpose inference model developed by  [Gong et al.2016](https://www.tandfonline.com/doi/abs/10.1080/15230406.2015.1014424)  and developed by [Dhananjaya et al. 2021](https://ieeexplore.ieee.org/abstract/document/9655943))  based on the Bayesian modeling is used in this study to access the impact of the suggested improvements. [Click Here](https://github.com/dineth33/POI-Enhancement/blob/main/Purpose_Inference/Purpose_Inference_Testing.ipynb)
 
 
 
