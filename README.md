@@ -20,6 +20,10 @@ Intuitively, this issue can be solved using text classification as a model can b
 Following table indicate the achieved F1-scores from each classifier. 
 
 
+![Classification results](https://user-images.githubusercontent.com/89911053/166672454-05170a31-4da6-4ec2-bca1-57d515368255.JPG)
+
+
+
 It was decided to continue with SVM as it provides a considerably higher accuracy with a lower computational time.
 
 
