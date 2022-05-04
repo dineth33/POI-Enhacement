@@ -54,13 +54,13 @@ The trip purpose inference model developed by  [Gong et al.2016](https://www.tan
 ### Data Usage
 <hr> 
 
-[Point of Intereset (POI) data](https://github.com/dineth33/POI-Enhancement/blob/main/Entrance_location_identification/Original_POI_data.csv) </br> 
+1. [Point of Intereset (POI) data](https://github.com/dineth33/POI-Enhancement/blob/main/Entrance_location_identification/Original_POI_data.csv) </br> 
 
-Taxi trips GPS data (Timestamped Origin and Destination cordinates)  </br> 
+2. Taxi trips GPS data (Timestamped Origin and Destination cordinates)  </br> 
 
-[Road Network data](https://github.com/dineth33/POI-Enhancement/tree/main/Entrance_location_identification/road%20network) </br> 
+3. [Road Network data](https://github.com/dineth33/POI-Enhancement/tree/main/Entrance_location_identification/road%20network) </br> 
 
-[Land Area Shape file (for the selected study area)](https://github.com/dineth33/POI-Enhancement/tree/main/Entrance_location_identification/land%20area) </br> 
+4. [Land Area Shape file (for the selected study area)](https://github.com/dineth33/POI-Enhancement/tree/main/Entrance_location_identification/land%20area) </br> 
 
 
 ### Acknowledgement 
