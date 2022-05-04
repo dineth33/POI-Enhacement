@@ -51,7 +51,12 @@ Identifying the entrance locations of these POIs helps to reduce this issue. The
 
 The trip purpose inference model developed by  [Gong et al.2016](https://www.tandfonline.com/doi/abs/10.1080/15230406.2015.1014424)  and developed by [Dhananjaya et al. 2021](https://ieeexplore.ieee.org/abstract/document/9655943))  based on the Bayesian modeling is used in this study to access the impact of the suggested improvements. [Click Here](https://github.com/dineth33/POI-Enhancement/blob/main/Purpose_Inference/Purpose_Inference_Testing.ipynb)
 
-
+### Data Usage
+<hr> 
+1. [Point of Intereset (POI) data](https://github.com/dineth33/POI-Enhancement/blob/main/Entrance_location_identification/Original_POI_data.csv) 
+2. Taxi trips GPS data (Timestamped Origin and Destination cordinates) 
+3. [Road Network data](https://github.com/dineth33/POI-Enhancement/tree/main/Entrance_location_identification/road%20network)
+4. [Land Area Shape file (for the selected study area)](https://github.com/dineth33/POI-Enhancement/tree/main/Entrance_location_identification/land%20area)
 
 
 ### Acknowledgement 
