@@ -15,13 +15,9 @@ POI data that can be extracted from different APIs mostly lack the category type
 Intuitively, this issue can be solved using text classification as a model can be built to predict the category type based on the name of that POI. Simply put, when a POI has a name as “National Primary School”, there is a possibility that its purpose can be predicted as “educational”. 
 
 K-Nearest Neighbors (KNN), Logistics Regression (LR), Random Forest (RF), Multinomial Naive Bayes (MNB), and Support Vector Machine (SVM) as conventional machine learning classifiers  and  [Convolutional Neural Network (CNN)](https://github.com/dineth33/POI-Enhancement/blob/main/POI_category_prediction/CNNs.ipynb)
-, Long Short-Term Memory (LSTM), Temporal Convolutional Network (TCN) as deep learning classifiers were evaluated to predict the purpose of a POI based on the name. 
+, [Long Short-Term Memory (LSTM)](https://github.com/dineth33/POI-Enhancement/blob/main/POI_category_prediction/LSTM.ipynb), [Temporal Convolutional Network (TCN)] (https://github.com/dineth33/POI-Enhancement/blob/main/POI_category_prediction/TCN.ipynb) as deep learning classifiers were evaluated to predict the purpose of a POI based on the name. 
 
 Following table indicate the achieved F1-scores from each classifier. 
-
-
-[](https://github.com/dineth33/POI-Enhancement/blob/main/POI_category_prediction/CNNs.ipynb)
-
 
 
 It was decided to continue with SVM as it provides a considerably higher accuracy with a lower computational time.
